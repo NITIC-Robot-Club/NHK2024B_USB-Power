@@ -3138,7 +3138,7 @@
 		)
 		(uuid "f3d1b8a3-91c8-4fcb-a81d-b9e29f2b8110")
 	)
-	(text_box "応用回路例 Vout=5V, Fosc=300kHz"
+	(text_box "応用回路例 Vout=5V, Fosc=300kHz\nhttps://fscdn.rohm.com/jp/products/databook/datasheet/ic/power/switching_regulator/bd9f800mux-j.pdf"
 		(exclude_from_sim no)
 		(at 114.3 45.72 0)
 		(size 96.52 72.39)
