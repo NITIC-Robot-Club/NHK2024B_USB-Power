@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Pi_Header.kicad_prl",
+    "filename": "USB_power.kicad_prl",
     "version": 3
   },
   "project": {
