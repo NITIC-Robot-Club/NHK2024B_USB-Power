@@ -562,7 +562,7 @@
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "H1"
-			(at 3.937 -2.286 0)
+			(at 4.064 -2.286 0)
 			(layer "F.SilkS")
 			(uuid "011fe414-8e34-44b2-be53-60361f9f80bd")
 			(effects
@@ -671,7 +671,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "3cd820bd-a287-4b5d-b382-4f5dedff2037")
-		(at 79.248 54.356)
+		(at 79.121 54.356)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "H2"
@@ -1907,7 +1907,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "5c7c3736-897c-401c-90e7-34a7ad8f27f9")
-		(at 79.248 112.776)
+		(at 79.121 112.776)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "H3"
