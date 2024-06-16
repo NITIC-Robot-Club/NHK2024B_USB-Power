@@ -41,6 +41,7 @@
 	(setup
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
+		(aux_axis_origin 40.132 116.332)
 		(pcbplotparams
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -8151,16 +8152,89 @@
 			)
 		)
 	)
-	(gr_rect
-		(start 40.132 50.8)
-		(end 82.677 116.332)
+	(gr_line
+		(start 43.582 50.8)
+		(end 79.227 50.8)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
-		(fill none)
 		(layer "Edge.Cuts")
-		(uuid "33ba8d40-d383-4b35-a204-3c3ffa3a917b")
+		(uuid "44572ae6-a935-41c8-9e1d-bb384396e1b8")
+	)
+	(gr_line
+		(start 79.227 116.332)
+		(end 43.582 116.332)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4923115a-4152-4f48-b62c-c6edcd6e8e36")
+	)
+	(gr_arc
+		(start 79.227 50.8)
+		(mid 81.666518 51.810482)
+		(end 82.677 54.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "59bb3b8a-268a-4958-b74e-a3677c9a055a")
+	)
+	(gr_arc
+		(start 82.677 112.882)
+		(mid 81.666518 115.321518)
+		(end 79.227 116.332)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5bf7e4d9-3a70-46b6-9b88-62acc2cc3025")
+	)
+	(gr_arc
+		(start 40.132 54.25)
+		(mid 41.142482 51.810482)
+		(end 43.582 50.8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "89039c42-7b8b-4538-907b-f8d7535b8a90")
+	)
+	(gr_arc
+		(start 43.582 116.332)
+		(mid 41.142482 115.321518)
+		(end 40.132 112.882)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8b49522f-04b2-4564-b267-3513e4c992c4")
+	)
+	(gr_line
+		(start 40.132 112.882)
+		(end 40.132 54.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "de4690b3-d5c9-4bf5-9fa6-3214b295bd19")
+	)
+	(gr_line
+		(start 82.677 54.25)
+		(end 82.677 112.882)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f2864b2b-6778-4227-bc34-35128d3536bb")
 	)
 	(gr_text "5V OUT"
 		(at 73.66 60.198 0)
