@@ -8152,6 +8152,17 @@
 			)
 		)
 	)
+	(gr_rect
+		(start 40.132 50.8)
+		(end 82.677 116.332)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "6b8b92f6-c360-455f-91dc-470cbfc0f3ab")
+	)
 	(gr_line
 		(start 43.582 50.8)
 		(end 79.227 50.8)
@@ -8245,6 +8256,44 @@
 				(size 1.2 1.2)
 				(thickness 0.24)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "LiDAR/\nPI"
+		(at 67.818 102.235 60)
+		(layer "F.SilkS" knockout)
+		(uuid "98bc94bf-c448-4849-a739-ae9131ae03ea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "NUCLEO/\nROUTER"
+		(at 53.975 69.977 0)
+		(layer "F.SilkS" knockout)
+		(uuid "9c8b8bf7-959b-4ff5-81c5-f9524b4761ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "2024 Ibaraki_B \nMCU Power Supply Board\nDesigned by @C_Take_e"
+		(at 51.181 114.681 0)
+		(layer "F.SilkS")
+		(uuid "cf61e384-b23c-4dc6-a4b9-2300a64fe145")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
 			)
 			(justify left bottom)
 		)
