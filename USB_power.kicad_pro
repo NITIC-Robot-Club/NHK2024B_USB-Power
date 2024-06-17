@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gbrs/",
+      "plot": "USB_power_gbrs/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

@@ -77,7 +77,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "gbrs/")
+			(outputdirectory "USB_power_gbrs/")
 		)
 	)
 	(net 0 "")
