@@ -7205,7 +7205,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at -0.127 1.778 90)
+			(at 2.794 0 90)
 			(layer "F.SilkS")
 			(uuid "6e629b5a-46f7-48f6-a415-9fd1417b6c0e")
 			(effects
@@ -7844,7 +7844,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R12"
-			(at 2.286 1.524 90)
+			(at 3.429 0 90)
 			(layer "F.SilkS")
 			(uuid "b47833e9-d895-4ae2-8832-48ddc4bc41ff")
 			(effects
@@ -8500,7 +8500,7 @@
 		)
 	)
 	(gr_text "2024 Ibaraki_B \nMCU Power Supply Board\nDesigned by @C_Take_e"
-		(at 128.27 107.823 -90)
+		(at 128.651 102.362 -90)
 		(layer "F.SilkS")
 		(uuid "cf61e384-b23c-4dc6-a4b9-2300a64fe145")
 		(effects
