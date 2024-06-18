@@ -567,7 +567,7 @@
 		(descr "Mounting Hole 3.2mm, M3")
 		(tags "mounting hole 3.2mm m3")
 		(property "Reference" "H1"
-			(at 5.08 -0.259518 0)
+			(at 4.064 2.280482 0)
 			(layer "F.SilkS")
 			(uuid "0def1235-229c-40a4-9c69-245297fc12a5")
 			(effects
@@ -753,7 +753,7 @@
 		(descr "Mounting Hole 3.2mm, M3")
 		(tags "mounting hole 3.2mm m3")
 		(property "Reference" "H2"
-			(at -5.08 0.248482 0)
+			(at -4.064 2.788482 0)
 			(layer "F.SilkS")
 			(uuid "9bade77d-6b22-40a2-80b1-cafe204df1f6")
 			(effects
@@ -1731,7 +1731,7 @@
 		(descr "Mounting Hole 3.2mm, M3")
 		(tags "mounting hole 3.2mm m3")
 		(property "Reference" "H3"
-			(at 0 -4.2 0)
+			(at -4.064 2.54 0)
 			(layer "F.SilkS")
 			(uuid "73361153-ebe7-4fa2-a5af-03258590ae65")
 			(effects
@@ -8786,7 +8786,7 @@
 		(descr "Mounting Hole 3.2mm, M3")
 		(tags "mounting hole 3.2mm m3")
 		(property "Reference" "H4"
-			(at 0 -4.2 0)
+			(at 4.064 2.54 0)
 			(layer "F.SilkS")
 			(uuid "e415d68d-e0b4-45d3-84c2-989d629afc13")
 			(effects
