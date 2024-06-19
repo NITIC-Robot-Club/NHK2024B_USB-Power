@@ -2984,7 +2984,7 @@
 		(descr "Wuerth, WS-SLTV, 450301014042, https://www.we-online.com/components/products/datasheet/450301014042.pdf")
 		(tags "switch single-pole double-throw SPDT würth wurth")
 		(property "Reference" "SW1"
-			(at 0 -2.54 90)
+			(at -7.112 0 90)
 			(layer "F.SilkS")
 			(uuid "ead7e735-f1cd-4453-a969-dddd45b8fcaf")
 			(effects
